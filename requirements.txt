@@ -1,0 +1,4 @@
+customtkinter>=5.2
+numpy>=1.26
+psutil>=5.9
+pillow>=10.0
